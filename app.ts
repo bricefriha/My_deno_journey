@@ -3,7 +3,7 @@ import router from './routes.ts';
 
 // Set port and host variable
 const HOST = '127.0.0.1';
-const PORT = 7700;
+const PORT = 8080;
 
 // 
 const app = new Application();
